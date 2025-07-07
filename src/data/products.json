@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Boat Rockerz 460 Wireless Headphone",
+    "price": 1999,
+    "image": "/images/headphone.jpg.png"
+  },
+  {
+    "id": 2,
+    "name": "OPPO Smartphone",
+    "price": 2999,
+    "image": "/images/smartwatch.jpg.png"
+  },
+  {
+    "id": 3,
+    "name": "Portronics Dash 12 Bluetooth Party Speaker",
+    "price": 1499,
+    "image": "/images/speaker.jpg.png"
+  }
+]
